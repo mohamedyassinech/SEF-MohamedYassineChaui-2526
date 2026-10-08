@@ -1,0 +1,35 @@
+# Gecompileerde/gegenereerde bestanden
+
+__
+pycache
+__/
+
+*.
+pyc
+
+# Virtuele omgeving
+
+venv
+/
+
+# Geheimen / configuratie
+
+.
+env
+
+# IDE
+-
+instellingen
+
+.
+vscode
+/
+
+.
+idea
+/
+
+# Systeembestanden
+
+.
+DS_Store
